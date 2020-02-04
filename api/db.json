@@ -1,0 +1,21 @@
+{
+  "streams": [
+    {
+      "title": "26th Title Second",
+      "description": "Super bowl soon",
+      "id": 9
+    },
+    {
+      "title": "Teste",
+      "description": "Tester1*",
+      "userId": "113417499770322626155",
+      "id": 10
+    },
+    {
+      "title": "Martin",
+      "description": "sdfsf",
+      "userId": "113417499770322626155",
+      "id": 11
+    }
+  ]
+}
